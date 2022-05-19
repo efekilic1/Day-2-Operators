@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/Operators/Operators/bin/Debug/Operators.exe
+/Users/muhammedkilic/Projects/Operators/Operators/bin/Debug/Operators.pdb
+/Users/muhammedkilic/Projects/Operators/Operators/obj/Debug/Operators.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/Operators/Operators/obj/Debug/Operators.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/Operators/Operators/obj/Debug/Operators.exe
+/Users/muhammedkilic/Projects/Operators/Operators/obj/Debug/Operators.pdb
